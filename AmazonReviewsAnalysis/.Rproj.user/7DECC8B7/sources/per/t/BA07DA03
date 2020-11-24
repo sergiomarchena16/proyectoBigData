@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1605230771120.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1861552118",
+    "id" : "BA07DA03",
+    "lastKnownWriteTime" : 1605926707,
+    "last_content_update" : 1605926707377,
+    "path" : "C:/Users/sergi/Desktop/UVG/2020 parte 2/BIGDATA/proyecto/AmazonReviewsAnalysis/main.R",
+    "project_path" : "main.R",
+    "properties" : {
+        "cursorPosition" : "163,0",
+        "scrollLine" : "119",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
